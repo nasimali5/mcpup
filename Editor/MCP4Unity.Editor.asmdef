@@ -1,0 +1,16 @@
+{
+    "name": "MCP4Unity.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3093b2f253af3a14cabf2c087674a483"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
