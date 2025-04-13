@@ -12,7 +12,7 @@
 
 **Universal Framework for Unified Creative Pipeline**<br>
 
-### Integrated Solution for Game Development、
+### Integrated Solution for Game Development
 [A Live Demo with Unity 2025 LTS](https://drive.google.com/file/d/1UBO1hLAVkHbJbXklioScavXkz3QXzxp0/view)<br>
 <br>
 **Core Toolchain**  
